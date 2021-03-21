@@ -1,0 +1,35 @@
+.contact
+{
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 10px;
+    border: 10px palevioletred solid;
+    background-color: teal;
+    box-sizing: border-box;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+h4{
+    padding-left: 50px;
+}
+
+.dot {
+    text-align: center;
+    height: 50px;
+    width: 50px;
+    position: sticky;
+    top: 9
+    0px;
+    background-color: palevioletred;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.colors
+{
+    color: white;
+}
